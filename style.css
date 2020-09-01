@@ -1,21 +1,22 @@
 body {
-    background: #ffda22;
+    background: teal;
   font-family: Roboto;
   justify-content: center;
   align-items: center;
+  height: 150vh;
 }
 
-.main {
-background: #004f2d;
+main {
+background: #000044;
   border-radius: 5px;
   width: 375px;
   text-align: center;
 }
 
 .top {
-height: 120px
-border-radius= 5px
-color= #D87CAC;
+height: 120px;
+border-radius: 5px;
+color: #D87CAC;
 } 
 
 .middle {
