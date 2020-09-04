@@ -11,6 +11,7 @@ background: #000044;
   border-radius: 5px;
   width: 375px;
   text-align: center;
+  flex-direction: column;
 }
 
 .top {
